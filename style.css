@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(115, 75, 143);
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+p {
+    color: rgb(255, 209, 240);
+}
+
+h1 {
+    color: rgb(213, 105, 195);
+}
+
+h3 {
+    color: rgb(251, 215, 255);
+}
+
+h4 {
+    color: lightgreen;
+}
